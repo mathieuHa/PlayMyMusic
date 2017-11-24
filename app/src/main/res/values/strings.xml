@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PlayMyMusic</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="action_settings">Nothing</string>
+    <string name="home_fragment">Home</string>
+    <string name="options_fragment">Options</string>
+    <string name="historic_fragment">Historic</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
